@@ -1,5 +1,5 @@
 context:
-  version: "2.27.1"
+  version: "2.28.0"
 
 package:
   name: onefetch
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/o2sh/onefetch/archive/${{ version }}.tar.gz
-  sha256: 3a6f82d3da4da62b2e5406bbe307b0afc73cd8fcc4855534886d80ea0121cc03
+  sha256: b55047d224cbf42dbb06e140da4125269141c5a74eae76b712a8455c558ca8e1
 
 build:
   number: 0
